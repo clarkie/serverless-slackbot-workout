@@ -1,0 +1,8 @@
+{
+  "name": "serverless-slackbot-workout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:clarkie/serverless-slackbot-workout.git",
+  "author": "Clarkie <andy.clarke@wonderbill.com>",
+  "license": "MIT"
+}
